@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: f756cf434c1a18347b5cc629a2f3cfd5
+timeCreated: 1461759890
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alienbullet_0
+    21300002: alienbullet_1
+    21300004: alienbullet_2
+    21300006: alienbullet_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alienbullet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 53
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4873621, y: 0.43070978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.83019, y: 33.018833}
+        - {x: -25.83019, y: -20.981167}
+        - {x: -24.83019, y: -24.981167}
+        - {x: 27.16981, y: -24.981167}
+        - {x: 27.16981, y: 33.018833}
+    - name: alienbullet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 51
+        height: 59
+      alignment: 9
+      pivot: {x: 0.49562222, y: 0.4243157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.276733, y: 33.965374}
+        - {x: -25.276733, y: -25.034626}
+        - {x: 18.723267, y: -25.034626}
+        - {x: 25.723267, y: -8.034626}
+        - {x: 25.723267, y: 16.965374}
+        - {x: 17.723267, y: 33.965374}
+    - name: alienbullet_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 51
+        height: 64
+      alignment: 9
+      pivot: {x: 0.54377806, y: 0.4302286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.732681, y: 36.46537}
+        - {x: -27.732681, y: -7.53463}
+        - {x: -16.732681, y: -27.53463}
+        - {x: 15.267319, y: -27.53463}
+        - {x: 18.267319, y: -26.53463}
+        - {x: 23.267319, y: -18.53463}
+        - {x: 23.267319, y: 19.46537}
+        - {x: 17.267319, y: 36.46537}
+    - name: alienbullet_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 4
+        width: 47
+        height: 56
+      alignment: 9
+      pivot: {x: 0.595008, y: 0.4242482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.965378, y: 32.242104}
+        - {x: -27.965378, y: 25.242102}
+        - {x: -27.965378, y: -12.757898}
+        - {x: -17.965378, y: -23.757898}
+        - {x: 19.034622, y: -23.757898}
+        - {x: 19.034622, y: 32.242104}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

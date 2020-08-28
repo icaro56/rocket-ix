@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<RocketContainer>
+	<Speed>
+		<Data>
+			<Name>Booster 0</Name>
+			<Price>0</Price>
+			<Value>800</Value>
+		</Data>
+		<Data>
+			<Name>Booster 1</Name>
+			<Price>1000</Price>
+			<Value>1100</Value>
+		</Data>
+		<Data>
+			<Name>Booster 2</Name>
+			<Price>5000</Price>
+			<Value>1400</Value>
+		</Data>
+		<Data>
+			<Name>Booster 3</Name>
+			<Price>12000</Price>
+			<Value>1700</Value>
+		</Data>
+	</Speed>
+	<Handling>
+		<Data>
+			<Name>Steer 0</Name>
+			<Price>0</Price>
+			<Value>45</Value>
+		</Data>
+		<Data>
+			<Name>Steer 1</Name>
+			<Price>1000</Price>
+			<Value>65</Value>
+		</Data>
+		<Data>
+			<Name>Steer 2</Name>
+			<Price>5000</Price>
+			<Value>85</Value>
+		</Data>
+		<Data>
+			<Name>Steer 3</Name>
+			<Price>12000</Price>
+			<Value>105</Value>
+		</Data>
+	</Handling>
+	<Rate>
+		<Data>
+			<Name>Machine Gun 0</Name>
+			<Price>0</Price>
+			<Value>2.0</Value>
+		</Data>
+		<Data>
+			<Name>Machine Gun 1</Name>
+			<Price>1000</Price>
+			<Value>1.5</Value>
+		</Data>
+		<Data>
+			<Name>Machine Gun 2</Name>
+			<Price>5000</Price>
+			<Value>1.0</Value>
+		</Data>
+		<Data>
+			<Name>Machine Gun 3</Name>
+			<Price>12000</Price>
+			<Value>0.5</Value>
+		</Data>
+	</Rate>
+	<Life>
+		<Data>
+			<Name>Shield 0</Name>
+			<Price>0</Price>
+			<Value>3</Value>
+		</Data>
+		<Data>
+			<Name>Shield 1</Name>
+			<Price>1000</Price>
+			<Value>4</Value>
+		</Data>
+		<Data>
+			<Name>Shield 2</Name>
+			<Price>5000</Price>
+			<Value>5</Value>
+		</Data>
+		<Data>
+			<Name>Shield 3</Name>
+			<Price>12000</Price>
+			<Value>6</Value>
+		</Data>
+	</Life>
+	<Magnetic>
+		<Data>
+			<Name>Force Field 0</Name>
+			<Price>0</Price>
+			<Value>10</Value>
+		</Data>
+		<Data>
+			<Name>Force Field 1</Name>
+			<Price>1000</Price>
+			<Value>13</Value>
+		</Data>
+		<Data>
+			<Name>Force Field 2</Name>
+			<Price>5000</Price>
+			<Value>15</Value>
+		</Data>
+		<Data>
+			<Name>Force Field 3</Name>
+			<Price>12000</Price>
+			<Value>20</Value>
+		</Data>
+	</Magnetic>
+</RocketContainer>
